@@ -1,2 +1,2 @@
 # streamlit-examples
-Examples of streamlit applications
+Code samples from the book The Essential Guide to Streamlit for Beginners
